@@ -1,2 +1,2 @@
 # UserManagementService
-[![Build Status](https://travis-ci.com/BlendedGamesFramework/BG-UserManagementService.svg?branch=master)](https://travis-ci.com/BlendedGamesFramework/BG-UserManagementService)
+[![Build Status](https://travis-ci.com/BlendedGamesFramework/BG-UserManagementService.svg?branch=master)](https://travis-ci.com/BlendedGamesFramework/BG-UserManagementService)[![Coverage Status](https://coveralls.io/repos/github/BlendedGamesFramework/BG-UserManagementService/badge.svg?branch=master)](https://coveralls.io/github/BlendedGamesFramework/BG-UserManagementService?branch=master)
